@@ -1,0 +1,133 @@
+body{
+    margin: 0px;
+    box-sizing: border-box;
+}
+.head1 img{
+    padding-left: 180px;
+    padding-top: 19px;
+    float: left;
+}
+.head1 a{
+    font-size: 17px;
+    font-weight:600 ;
+    color: black;
+    font-family:Inter,sans-serif;
+    text-align: center;
+    text-decoration: none;
+    padding: 14px 16px;
+    float: none;
+    
+    
+}
+.p1{
+    position: relative;
+    top: 35px;
+    
+}
+h5{
+    
+    border-radius: 40px;
+    font-size: 17px;
+    font-weight:600 ;
+    color: white;
+    font-family:Inter,sans-serif;
+    position: relative;
+    bottom: 27px;
+    padding: 5px;
+    
+    
+}
+h5:hover{
+    background-color: darkblue;
+}
+.imgcontainer{
+    
+    background-color:#00baf2;
+    border-radius: 30px;
+    font-weight:600 ;
+    color: white;
+    font-family:Inter,sans-serif;
+    height: 30px;
+    position: relative;
+    top: 25px;
+    margin-left: 40px ;
+    
+}
+.content{
+    background-color: #f6f6f6;
+    width: 100%;
+    height: 52px;
+    margin-top: 2px;
+    display: flex;
+    justify-content: center;
+    font-family:Inter,sans-serif;
+}
+#imga{
+    width: 80px;
+    height: 80px;
+    margin-top: 130px;
+    margin-left: 130px;
+}
+.h1{
+    display: flex;
+    justify-content: left;
+
+}
+.para2 img{
+    justify-content: end;
+    width: 528px;
+    position: absolute;
+    top: 250px;
+    right: 0;
+}
+h1{
+    font-size: 54px;
+    font-weight: 700;
+    line-height: 65px;
+    padding-left: 130px;
+
+}
+.P2{
+    font-family:Inter,sans-serif;
+    padding-left: 130px;
+    margin-top: -60pX;
+    font-family:Inter,sans-serif;
+}
+.b1{
+    display: flex;
+    display: -ms-flexbox;
+    width: 180px;
+    height: 40px;
+    background-color: black;
+    color: white;
+    -ms-flex-align: center;
+    justify-content:end;
+    align-items: center;
+    border-radius: 40px;
+    font-family: Inter,sans-serif;
+    margin-left: 120px;
+   padding-right: 50px;
+   cursor: pointer;
+}
+.b1 span{
+    font-size:13px;
+    position: relative;
+    left: 20px;
+}
+.b1:hover{
+    background-color: white;
+    color: black;
+
+}
+#kl{
+    width: 21px;
+    position: relative;
+    right: -33px;
+}
+#store{
+    width: 24px;
+    position: relative;
+    right: -39;
+    top: 2px;
+    left: 36px;
+}
